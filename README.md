@@ -1,1 +1,1 @@
-# react_sample_boilerplate
+React Widget App
