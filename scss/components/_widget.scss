@@ -1,0 +1,36 @@
+.customizable {
+    &:hover {
+        cursor: pointer;
+    }
+    
+    position: absolute;
+    right: $space-large;
+    bottom: $space-large;
+
+    width: $space-giant;
+    border-radius: $space-border;
+
+    background: $color-black;
+}
+
+.card-title {
+    text-align: center;
+
+    color: $color-white;
+}
+
+.card-subtitle {
+    border-radius: $space-border-large;
+
+    background: $color-dark-green;
+}
+
+.box-green {
+    color: $color-green;
+}
+
+.call-image {
+    padding: $space-small $space-small $space-small $space-zero;
+
+    width: $space-image;
+}
